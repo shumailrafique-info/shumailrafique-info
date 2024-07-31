@@ -1,7 +1,7 @@
 <h1 align="start">Hi 👋, I'm Shumail Rafique</h1>
 <h3 align="start">A passionate Full Stack developer from Pakistan</h3>
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/shumailrafique-info)
 
 - 📫 How to reach me **shumailrafique.info@gmail.com**
 
