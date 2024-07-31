@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shumail Rafique</h1>
-<h3 align="center">A passionate Full Stack developer from Pakistan</h3>
+<h1 align="start">Hi 👋, I'm Shumail Rafique</h1>
+<h3 align="start">A passionate Full Stack developer from Pakistan</h3>
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
