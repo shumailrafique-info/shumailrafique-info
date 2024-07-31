@@ -15,8 +15,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-```
-console.log("Hello World!")
+
+
+```bash
+console.log("Hello World!");
+# or
+printf(“Hello, World!\n”);
 ```
 
 
