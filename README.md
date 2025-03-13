@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://shumail.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://shumail.dev/" height="30" width="40" /></a>
+<a href="https://shumail.dev/" target="blank"><img align="center" src="https://www.shumail.dev/favicon.ico" alt="https://www.shumail.dev/favicon.ico" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shumailrafique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shumailrafique" height="30" width="40" /></a>
 <a href="https://fb.com/shumail.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shumail.dev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@shumaildev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@shumaildev" height="30" width="40" /></a>
