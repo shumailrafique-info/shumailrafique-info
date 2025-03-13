@@ -5,6 +5,7 @@
 
 
 ## 🌐 Socials:
+[![Facebook]([https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white](https://img.shields.io/badge/Portfolio-Shumail.dev-blue))](https://shumail.dev/) 
 [![Portfolio]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://img.shields.io/badge/Portfolio-Shumail.dev-blue))](https://shumail.dev/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shumail.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shumailrafique) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shumailrafique.info@gmail.com) 
 
 # 💻 Tech Stack:
