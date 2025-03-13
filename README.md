@@ -1,6 +1,8 @@
 <h1 >Hi 👋, I'm Shumail Rafique</h1>
 <h3 >A Passionate Full Stack Developer From Pakistan</h3>
 
+- 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
+
 - 👨‍💻 All of my projects are available at [https://shumail.dev](https://shumail.dev)
 
 - 📝 I regularly write articles on [https://shumail.dev/blog](https://shumail.dev/blog)
