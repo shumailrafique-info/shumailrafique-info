@@ -35,4 +35,3 @@
 console.log("🎉 Hello, World! 🎉");  # or
 printf("✨ Hello, World! ✨\n");
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
