@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shumail Rafique</h1>
-<h3 align="center">A Passionate Full Stack Developer From Pakistan</h3>
+<h1 >Hi 👋, I'm Shumail Rafique</h1>
+<h3 >A Passionate Full Stack Developer From Pakistan</h3>
 
 - 👨‍💻 All of my projects are available at [https://shumail.dev](https://shumail.dev)
 
@@ -24,7 +24,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shumailrafique-info&show_icons=true&locale=en" alt="shumailrafique-info" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shumailrafique-info&" alt="shumailrafique-info" /></p>
 
 
 <h3 align="left">My first lines of code:</h3>
